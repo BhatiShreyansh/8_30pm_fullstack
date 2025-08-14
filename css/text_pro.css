@@ -1,0 +1,26 @@
+h1{
+ color: grey;
+ text-align: center;
+ text-decoration:10px wavy underline purple ; 
+ text-shadow: 3px 4px 5px black;
+} 
+
+p{
+    color : rgb(205, 78, 99) ; 
+    text-transform:uppercase;
+    text-align: justify;
+    
+}
+
+p:hover{
+    color : purple
+}
+a{
+    text-decoration: none;
+    color : rgb(12, 164, 195)
+}
+
+a:hover{
+    text-decoration: 3px solid underline green;
+    color : red
+}

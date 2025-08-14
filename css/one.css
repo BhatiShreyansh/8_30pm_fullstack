@@ -1,0 +1,23 @@
+body{
+    /* background-color: goldenrod; */
+    /* background: linear-gradient(to left , grey , red , orange); */
+    background-image: url("../media/ben-kolde-cpLsWmMEa1Q-unsplash.jpg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+
+}
+
+h1{
+    color : rgb(17, 101, 17) ; 
+    /* background-color: rgb(215, 93, 114); */
+
+}
+
+p{
+    color :black ; 
+    /* background-color: black; */
+}

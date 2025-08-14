@@ -1,0 +1,48 @@
+#nav{
+    height: 80px;
+    width: 100%;
+    background: linear-gradient(to right , rgb(127, 124, 124) , rgb(211, 37, 66));
+    padding-top: 8px;
+     border-radius: 5px;
+     box-shadow: 4px 5px 6px  rgb(16, 16, 16);
+    
+
+}
+
+#logo{
+    margin: 0;
+    color : white ; 
+    font-size: 25px;
+    font-family: fantasy;
+
+}
+
+#logo:hover{
+    color : black
+}
+a{
+    color : rgb(14, 14, 14) ; 
+    text-decoration: none;
+    font-weight: bolder;
+    margin-left: 190px;
+
+
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+
+a:hover{
+    color : white
+}
+
+#search{
+    height: 45px;
+    width: 350px;
+ margin-left: 30px;
+ border-radius: 5px;
+ border: 2px solid white;
+
+
+
+ 
+}

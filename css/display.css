@@ -1,0 +1,71 @@
+/* h1{
+    text-align: center;
+    color : goldenrod ; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-decoration: 5px solid underline green;
+} */
+
+body{
+    display: flex;
+    /* align-items:end; */
+    justify-content: center;
+}
+
+#parent{
+    height: 500px ; 
+    width: 90%;
+    background:linear-gradient(to right , pink  , blue);
+    display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+    box-shadow: 4px 5px 6px black;
+    border-radius: 20px;
+    
+}
+
+.one{
+    height: 150px;
+    width: 150px;
+    background-color: green;
+    border: 4px solid rgb(32, 200, 206);
+    /* display: inline-block; */
+    border-radius: 50%;
+    
+    color : white ; 
+
+        display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+      border-radius: 50%;
+}
+
+
+.two{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(209, 45, 9);
+    border: 4px solid rgb(32, 200, 206);
+        /* display: inline-block; */
+        /* display: none; */
+        /* visibility: hidden; */
+          color : white ; 
+
+              display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+
+      border-radius: 50%;
+}
+.three{
+    height: 150px;
+    width: 150px;
+    background-color: rgb(34, 10, 170);
+    border: 4px solid rgb(32, 200, 206);
+        /* display: inline-block; */
+          color : white ; 
+
+              display: flex;
+    justify-content: space-evenly;
+    align-items:center;
+      border-radius: 50%;
+}

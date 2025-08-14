@@ -1,0 +1,35 @@
+/* /* h1{
+    color : goldenrod
+}
+
+.one{
+    color :slateblue
+}
+
+.two{
+    color : red
+}
+
+#one{
+    color : rgb(35, 223, 35)
+}
+
+*{
+    color : rgb(33, 33, 223)
+} */
+
+
+
+/* h1  , h5 , #one , .one{
+    color : rgb(35, 161, 224)
+}
+ */
+
+
+ h1{
+    color : goldenrod
+ }
+
+ h1:hover{
+    color : rgb(157, 23, 45)
+ }
